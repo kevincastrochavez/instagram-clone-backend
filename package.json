@@ -1,0 +1,16 @@
+{
+  "name": "instagram-clone-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Castro <kevin.castro.chavez0@gmail.com> (https://github.com/kevincastrochavez)",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongoose": "^5.10.8",
+    "pusher": "^3.0.1"
+  }
+}
